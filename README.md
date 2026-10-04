@@ -36,7 +36,7 @@ Consideraciones
 	- M004	S004	32 °C	80 %	995 hPa
 	- M005	S005	30 °C	70 %	1005 hPa
 
--	La ejecución del producer3 en la terminal es de la siguiente forma:
+-	La ejecución del producer3 en la terminal mostrara diferentes indicadores de sensores, se generen aleatoriamente cada uno a tres segundos
  
 
 -	En el consumer se ejecutan en un notebook los siguientes pasos:
@@ -58,5 +58,5 @@ Consideraciones
   	- Detener el consumer. 
   	- Leer el Parquet.  
   	- Mostrar las últimas 10 ejecuciones.  
-  	Resumen final. 
+  	- Resumen final. 
  
